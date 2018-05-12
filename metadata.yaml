@@ -1,0 +1,55 @@
+_repo: Ivanhoe_26564
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Lindo, M. P. (Mark Prager)
+    alias: Lindo, Mark Prager
+    birthdate: 1819
+    deathdate: 1877
+    gutenberg_agent_id: '32102'
+    url: http://www.gutenberg.org/2009/agents/32102
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Templeton, Laurence
+    - Malagrowther, Malachi
+    - Cleishbotham, Jedediah
+    - Scott, Sir Walter
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+  editor:
+    agent_name: Brink, Jan ten
+    alias: Ten Brink, Jan
+    birthdate: 1834
+    deathdate: 1901
+    gutenberg_agent_id: '31094'
+    url: http://www.gutenberg.org/2009/agents/31094
+description: ''
+gutenberg_issued: '2008-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26564'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+- !lcsh 'Jews -- England -- Fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Great Britain -- History -- Richard I, 1189-1199 -- Fiction'
+- !lcsh 'Normans -- Great Britain -- Fiction'
+- !lcsh 'Knights and knighthood -- Fiction'
+- !lcsh 'Anglo-Saxons -- Fiction'
+- !lcsh 'Ivanhoe, Wilfred of, Sir (Fictitious character) -- Fiction'
+- !lcsh 'Love stories'
+title: Ivanhoe
+url: http://www.gutenberg.org/ebooks/26564
